@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mentoring</string>
+    <string name="halo_email"><![CDATA[Halo, <Email>]]></string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="pasword">Pasword</string>
+</resources>
